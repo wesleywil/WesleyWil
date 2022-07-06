@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hotel Project](https://github.com/wesleywil/hotel-project)
 
-- 🌱 I’m currently learning **ReactJs, Redux and Tauri**
+- 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Ruby**
 
 - 📫 How to reach me **wesleywilsonti@gmail.com**
 
