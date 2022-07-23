@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Hotel Project](https://github.com/wesleywil/hotel-project)
+- 🔭 I’m currently working on [Bug Tracker](https://github.com/wesleywil/bug-tracker)
 
 - 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Ruby**
 
