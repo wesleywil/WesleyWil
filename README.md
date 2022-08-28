@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/wesleywil/Portfolio)
 
-- 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Ruby**
+- 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Rust**
 
 - 📫 How to reach me **wesleywilsonti@gmail.com**
 
