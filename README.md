@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/wesleywil/Portfolio)
+- 🔭 I’m currently working on [PFC-TechBlog](https://github.com/wesleywil/PFC-TechBlog)
 
 - 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Rust**
 
