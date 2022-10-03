@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Astro_Portfolio](https://github.com/wesleywil/Astro_Porfolio)
+- 🔭 I’m currently working on [X-music](https://github.com/wesleywil/X-music)
 
 - 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Rust**
 
