@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [X-music](https://github.com/wesleywil/X-music)
 
-- 🌱 I’m currently learning **Django, ReactJs, Redux, Tauri and some Rust**
+- 🌱 I’m currently learning **Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
 - 📫 How to reach me **wesleywilsonti@gmail.com**
 
