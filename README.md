@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Pizza App](https://github.com/wesleywil/Pizza_app)
+- 🔭 I’m currently working on [Meditation App](https://github.com/wesleywil/zen_app)
 
-- 🌱 I’m currently learning **Django, ReactJs,Svelte, Redux, Tauri and some Rust**
+- 🌱 I’m currently learning **Python, Typescript, Javascript, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
 - 📫 How to reach me **wesleywilsonti@gmail.com**
 
