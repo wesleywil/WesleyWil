@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [SmartMarket](https://github.com/wesleywil/smart_supermarket) 
+- 🔭 I’m currently working on [Daily Vegan](https://github.com/wesleywil/Vegan-Recipes) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
