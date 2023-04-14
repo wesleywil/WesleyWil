@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Coffee-Shop](https://github.com/wesleywil/coffee-shop) 
+- 🔭 I’m currently working on [Gold Raffle](https://github.com/wesleywil/gold_raffle) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
