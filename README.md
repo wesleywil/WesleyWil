@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [NextJs Portfolio](https://github.com/wesleywil/nextjs-portfolio) 
+- 🔭 I’m currently working on [Expenses Tracking App](https://github.com/wesleywil/expenses_tracking) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
