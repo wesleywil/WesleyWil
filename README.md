@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Game publisher/store](https://github.com/wesleywil/game-store) 
+- 🔭 I’m currently working on [Task Manager](https://github.com/wesleywil/task_manager) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, PHP, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
