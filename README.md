@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
-<h3 align="center">A passionate full stack trying to learn and become a better developer</h3>
+<h3 align="center">A passionate full stack developer trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Travel Planner](https://github.com/wesleywil/travel-planner) 
+- 🔭 I’m currently working on [CelestialMagnet-Cards](https://github.com/wesleywil/CelestialMagnet-Cards) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, PHP, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
