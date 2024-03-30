@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Wilson</h1>
 <h3 align="center">A passionate full stack developer trying to learn and become a better developer</h3>
 
-- 🔭 I’m currently working on [Solid Chat](https://github.com/wesleywil/solid_chat) 
+- 🔭 I’m currently working on [Plan Shepere - List of Plans App](https://github.com/wesleywil/PlanSphere) 
 
 - 🌱 I’m currently learning **Python, Typescript, Javascript, PHP, Django, ReactJs,Svelte, Redux, Tauri and some Rust**
 
